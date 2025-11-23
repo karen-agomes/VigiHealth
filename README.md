@@ -78,7 +78,7 @@ Inclui:
 
 ## 🗂️ Modelo Lógico Utilizado
 
-O banco segue o modelo construído na EP3, incluindo as tabelas:
+O banco segue o modelo construído anteriormente, incluindo as tabelas:
 
 - **Paciente**
 - **UnidadeSaude**
@@ -87,7 +87,7 @@ O banco segue o modelo construído na EP3, incluindo as tabelas:
 - **Notificacao**
 - **ResultadoLaboratorial**
 
-Todos os relacionamentos, cardinalidades e chaves foram mantidos conforme a modelagem aprovada.
+Todos os relacionamentos, cardinalidades e chaves foram mantidos conforme a modelagem.
 
 ---
 
